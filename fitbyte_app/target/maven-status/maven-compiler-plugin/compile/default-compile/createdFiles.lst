@@ -1,0 +1,8 @@
+com/mycompany/fitbyte_app/App.class
+core/DAO/MarcaDAO.class
+com/mycompany/fitbyte_app/ConnectionProvider.class
+core/views/MarcaView.class
+core/models/Alimento.class
+core/DAO/AlimentoDAO.class
+core/views/AlimentoService.class
+core/models/Marca.class
