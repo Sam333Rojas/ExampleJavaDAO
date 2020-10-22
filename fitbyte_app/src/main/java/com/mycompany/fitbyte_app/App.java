@@ -12,6 +12,7 @@ import java.util.Scanner;
 /**
  *
  * @author developer
+ * version 1
  */
 public class App {
     private static final Scanner scanner = new Scanner(System.in);
